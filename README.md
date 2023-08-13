@@ -11,21 +11,22 @@
  ### Compare graduation rates between 4-year private and public colleges and universities in St. Paul, Minnesota
 
 ## Project Description
-Comparing the undergraduate graduation rate of Private and Public colleges and universities of 12 colleges/universities in St. Paul, Minnesota:
- - Bethel University
- - Concordia University, St. Paul
- - Hamline University
- - Macalaster College
- - McNally Smith College of Music
- - Metropolitan State University
- - St. Catherine University
- - The college or St. Scholastica
- - University of Minnesota
- - University of Northwestern
- - University of St. Thomas
- - William Mitchell College of Law
+Comparing the undergraduate graduation rate of Private and Public colleges and universities St. Paul, Minnesota, we found, the data set started with 11 schools.  Initially we had 16 schools in our data pool of schools in St. Paul, Minnesota
 
- These schools were chosen from this website: https://www.accreditedschoolsonline.org/minnesota/saint-paul-mn/#Colleges-in-Saint-Paul 
+We called all of the variables and put them in a school summary data frame.
+We excluded the 2-year schools, excluded the Luther Seminary and William Mitchell School of Law
+Bringing the data to a total of 8 schools:
+1.    Bethel University
+2.    Concordia University – St. Paul
+3.    Hamline University
+4.    Macalester University
+5.    Metropolitan State University
+6.    University of Northwestern-St. Paul
+7.    University of St. Thomas
+8.    St. Catherine University
+
+Then we re-ran all of the data to include both Minneapolis and Saint Paul as we weren’t getting a large enough public university pool.
+
 
  ## Research Questions
  ### Each School Summary
