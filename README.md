@@ -7,6 +7,9 @@
  - Logan Severson
  - Lori Andler
 
+### Project Slides: 
+https://docs.google.com/presentation/d/1Q9t6MkW9AO1p_oKjZwu-jBw764srbWAwcXw6WTie7Y0/edit?usp=sharing 
+
  ## Project Title
  ### Completion rate between 4-year private and public universities across the state of Minnesota
 
