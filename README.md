@@ -39,18 +39,19 @@ Our project data now includes:
 4. The College of Saint Scholastica
 5. Minnesota State University-Mankato
 6. Augsburg University
-7. Minneapolis College of Art and Design
-8. Concordia College at Moorhead
-9. Minnesota State University-Moorhead
-10. University of Minnesota-Morris
-11. St. Olaf College
-12. Saint Cloud State University
-13. Hamline University
-14. Macalester College
-15. University of St. Thomas
-16. St. Catherine University
-17. Gustavus Adolphus College
-18. Winona State University
+7. University of Minnesota-Twin Cities
+8. Minneapolis College of Art and Design
+9. Concordia College at Moorhead
+10. Minnesota State University-Moorhead
+11. University of Minnesota-Morris
+12. St. Olaf College
+13. Saint Cloud State University
+14. Hamline University
+15. Macalester College
+16. University of St. Thomas
+17. St. Catherine University
+18. Gustavus Adolphus College
+19. Winona State University
 
 ## Overview insight:
 1. Each School Summary
