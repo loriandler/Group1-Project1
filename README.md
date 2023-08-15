@@ -8,10 +8,10 @@
  - Lori Andler
 
  ## Project Title
- ### Compare graduation rates between 4-year private and public colleges and universities in St. Paul, Minnesota
+ ### Completion rate between 4-year private and public universities across the state of Minnesota
 
 ## Project Description
-Comparing the undergraduate graduation rate of Private and Public colleges and universities St. Paul, Minnesota, we found, the data set started with 11 schools.  Initially we had 16 schools in our data pool of schools in St. Paul, Minnesota
+At the start of our project, we began by comparing the undergraduate graduation (completion) rate of Private and Public colleges and universities St. Paul, Minnesota.  During the data cleaning process,  we found the data set started with 11 schools.  Initially we had 16 schools in our data pool of schools in St. Paul, Minnesota.
 
 We called all of the variables and put them in a school summary data frame.
 We excluded the 2-year schools, excluded the Luther Seminary and William Mitchell School of Law
@@ -25,28 +25,53 @@ Bringing the data to a total of 8 schools:
 7.    University of St. Thomas
 8.    St. Catherine University
 
-Then we re-ran all of the data to include both Minneapolis and Saint Paul as we weren’t getting a large enough public university pool.
+Then we re-ran all of the data to include both Minneapolis and Saint Paul as we weren’t getting a large enough public university pool.  In order to do a better analysis on the date, the data pool was still not big enough.  
 
+We pivoted the project and pull 4-year private and public universities across the state of Minnesota.   The data was then run through a worldwide city to get us a total of 19 4-year private and public universities from across the state of Minnesota. 
 
- ## Research Questions
- ### Each School Summary
-  - What is the percentage of graduation rate?
-  - Drop out rate?
-  - Freshman Acceptance Rate (ACT/SAT requirement)
-  - Tuition Cost
-  - Diversity breakdown (graduation rate across different ehtnicities)
+Our project data now includes:
+1. Bemidji State University
+2. University of Minnesota-Crookston
+3. University of Minnesota-Duluth
+4. The College of Saint Scholastica
+5. Minnesota State University-Mankato
+6. Augsburg University
+7. Minneapolis College of Art and Design
+8. Concordia College at Moorhead
+9. Minnesota State University-Moorhead
+10. University of Minnesota-Morris
+11. St. Olaf College
+12. Saint Cloud State University
+13. Hamline University
+14. Macalester College
+15. University of St. Thomas
+16. St. Catherine University
+17. Gustavus Adolphus College
+18. Winona State University
 
-  ### Public Vs. Private Summary
-   - What is the percentage of graduation rate?
-  - Drop out rate?
-  - Freshman Acceptance Rate (ACT/SAT requirement)
-  - Tuition Cost
-  - Diversity breakdown (graduation rate across different ehtnicities)
+## Overview insight:
+1. Each School Summary
+     - Total number of students
+     - What is the percentage of graduation rate?
+     - Retention Rate
+     - Diversity breakdown - graduation rate across different ethnicities
+2. Public vs. Private Summary
+     - Total number of students
+     - What is the percentage of graduation rate?
+     - Retention Rate
+     - Diversity breakdown - graduation rate across different ethnicities
+
+ ## Research Questions:
+ ### Public Vs. Private
+1. The correlation between % of ethnicity vs. completion rate
+2. The correlation between total students and completion rate
+3. The correlation between retention rate(completing at least 1 year) and completion rate
+4. Comparing the completion rate between public and private schools
 
 ## Breakdown of Tasks
  - Data Cleansing & Analysis : Arnold, Clover, Jacob, Logan and Lori
  - ReadMe File Write-up: Lori
- - Visualization: Logan
+ - Visualization: Logan, Arnold, Jacob
  - Conclusion/professional write-up: Arnold
  - Finalized slide deck: Jacob
 
