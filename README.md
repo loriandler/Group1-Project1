@@ -68,9 +68,17 @@ Our project data now includes:
  ## Research Questions:
  ### Public Vs. Private
 1. The correlation between % of ethnicity vs. completion rate
+     - We found that the completion rate at private colleges of caucasian students was highest followed by completion rates of hispanic, asian, and two or more races.
+     - Completion rate at Macalester College was the highest and Augsburg/St. Catherine were the lowest at the private colleges.
+     - The box plot created shows that at private colleges the greatest span of completion rates was with the American Indian/Alaska Native ethnicity.
+     - The pie chart shows that there aren't a huge amount of difference in the ethncity with completion rates at the private universities/colleges.
 2. The correlation between total students and completion rate
-3. The correlation between retention rate(completing at least 1 year) and completion rate
+     - The overall completion rates show that private colleges have the highest completion with an outlier of the University of MN for public colleges.
+3. The correlation between retention rate(completing at least 1 year) and completion rate.
+     - The retention rates are fairly in line with the completion rates between all of the schools public and private.
 4. Comparing the completion rate between public and private schools
+     - Overall, the private schools have a better completion rate than public schools.
+     - The ttest shows the p-value is lower than the alpha and there is a statistical significance to the difference.
 
 ## Breakdown of Tasks
  - Data Cleansing & Analysis : Arnold, Clover, Jacob, Logan and Lori
@@ -87,6 +95,7 @@ Our project data now includes:
  ## References
  Base URL: https://api/data.gov/ed/collegescorecard/v1/schools.json?
  Dataset Guide: https://github.com/RTICWDT/open-data-mater/blobl/master/API.md
+ Guiding data: https://countrystatecity.in/docs/api/cities-by-state-country/
 
  ## Credits
  Thank you to instructor, Hunter Hollis, and TA's Randy & Sam for their guidance in this project.
