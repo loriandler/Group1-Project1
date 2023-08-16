@@ -68,10 +68,13 @@ Our project data now includes:
  ## Research Questions:
  ### Public Vs. Private
 1. The correlation between % of ethnicity vs. completion rate
-     - We found that the completion rate at private colleges of caucasian students was highest followed by completion rates of hispanic, asian, and two or more races.
-     - Completion rate at Macalester College was the highest and Augsburg/St. Catherine were the lowest at the private colleges.
-     - The box plot created shows that at private colleges the greatest span of completion rates was with the American Indian/Alaska Native ethnicity.
-     - The pie chart shows that there aren't a huge amount of difference in the ethncity with completion rates at the private universities/colleges.
+     - We found that the completion rate at private schools of caucasian students was highest followed by completion rates of hispanic, asian, and two or more races. 
+     - We found that the completion rate at public schools were also highest among caucasian students.
+     - Completion rate at Macalester College was the highest and Augsburg/St. Catherine were the lowest at the private schools.
+     - Completion rate at University of MN - Twin Cities was the highest.  With the lowest at St. Cloud State for public schools.
+     - The box plot created shows that at private schools the greatest span of completion rates was with the American Indian/Alaska Native ethnicity.
+     - The box plot shows that at public schools the smalles span of completion was with the nonResident Alien students with a couple of outliers.
+     - The pie charts are pretty similar between ethnicities at both public and private schools.
 2. The correlation between total students and completion rate
      - The overall completion rates show that private colleges have the highest completion with an outlier of the University of MN for public colleges.
 3. The correlation between retention rate(completing at least 1 year) and completion rate.
