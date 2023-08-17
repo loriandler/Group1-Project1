@@ -83,12 +83,27 @@ Our project data now includes:
      - Overall, the private schools have a better completion rate than public schools.
      - The ttest shows the p-value is lower than the alpha and there is a statistical significance to the difference.
 
+## Conclusion
+There is a statistical significance to private schools completing more students than public schools (with the one outlier of U of MN - Twin Cities).
+
+Macalester was best for private school completion.
+
+
+## Next Steps:
+We'd love to look further into:
+- What does this look like on a larger scale outside of MN?
+- Is there a correlation with the cost of tuition?
+- How would geography play into this?
+- Why exactly is private so much higher than public?
+
+
 ## Breakdown of Tasks
- - Data Cleansing & Analysis : Arnold, Clover, Jacob, Logan and Lori
- - ReadMe File Write-up: Lori
- - Visualization: Logan, Arnold, Jacob
- - Conclusion/professional write-up: Arnold
- - Finalized slide deck: Jacob
+ - Data Cleansing & Analysis : Arnold, Clover, Jacob, Logan, Lori
+ - ReadMe File Write-up: Lori, Arnold, Clover, Jacob, Logan
+ - Visualization: Logan, Lori, Arnold, Clover, Jacob
+ - Conclusion/professional write-up: Clover, Jacob, Logan, Lori, Arnold
+ - Finalized slide deck: Jacob, Logan, Lori, Arnold, Clover
+
 
  We searched data sets for college stats on graduation rates, drop out rates, acceptance rates, tuition, etc.
 
